@@ -18,12 +18,12 @@ avatar: https://media.licdn.com/dms/image/C5603AQHr6lw77mF_EA/profile-displaypho
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: newlyn.joseph@yale.edu
+  facebook:https://www.facebook.com/jn376
   flickr:
   github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  instagram:https://www.instagram.com/turnt_puppy/
+  linkedin:https://www.linkedin.com/in/newlynjoseph/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb

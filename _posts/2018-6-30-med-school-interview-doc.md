@@ -9,4 +9,6 @@ As a pre-med chances are you've done fairly well in phase 1 and phase 2. Phase 3
 
 To help myself prepare for navigating these uncharted waters I have decided to mine resources on SDN, r/premed, and other place in order to create a nice Google Doc that summarized all this info. I'm hoping it will be a great cram sheet for interviews and such. Well here it is in it's current state.
 
-<iframe style="width:100%;height:500px;"src="https://docs.google.com/document/d/e/2PACX-1vQjK19Ez2EbrZwSiuiigEsf77fIfoGKozl0T2I9dEUslGlcbEKAcJm-V_Q6bjGxqvGPjAhSDu7YWMMc/pub?embedded=true"></iframe>
+<div>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQjK19Ez2EbrZwSiuiigEsf77fIfoGKozl0T2I9dEUslGlcbEKAcJm-V_Q6bjGxqvGPjAhSDu7YWMMc/pub?embedded=true" style="width:100%;height:500px;"></iframe>
+</div>

@@ -10,3 +10,5 @@ Vaidya, A. T., Lomakin, I. B., Joseph, N. N., Dmitriev, S. E. &amp; Steitz, T. A
 ## Software
 <div class="github-card" data-github="nnj1/pdbmine" data-width="400" data-height="153" data-theme="default"></div>
 <script src="https://cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+ 
+ I also have some iPython notebooks hosted on Anaconda cloud at https://anaconda.org/jn376/. My main notebook is https://anaconda.org/newlynlib/ <a href=""> <img src="https://anaconda.org/jn376/newlynlib/badges/installer/ipynb.svg" /> </a>

@@ -7,7 +7,7 @@ published: true
 
 ## Papers
 
-Full availible at https://scholar.google.com/citations?user=UwKs58IAAAAJ
+Full availible at <https://scholar.google.com/citations?user=UwKs58IAAAAJ>
 
 Roy, R.N., Joseph, N.N. and Steitz, T.A., 2019. Molecular Dynamics Analysis of Mg2+-dependent Cleavage of a Pistol Ribozyme Reveals a Fail-safe Secondary Ion for Catalysis. <i>bioRxiv</i>, p.596270.
 
